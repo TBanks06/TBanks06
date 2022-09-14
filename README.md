@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazeem Bankole</h1>
-<h3 align="center">A passionate frontend developer from Abeokuta, Ogun State. Nigeria.</h3>
+<h3 align="center">A motivated and enthusiastic frontend developer from Abeokuta, Ogun State. Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbanks06&label=Profile%20views&color=0e75b6&style=flat" alt="tbanks06" /> </p>
 
