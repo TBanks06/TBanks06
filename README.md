@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tunjibankole3" target="blank"><img src="https://img.shields.io/twitter/follow/tunjibankole3?logo=twitter&style=for-the-badge" alt="tunjibankole3" /></a> </p>
 
-- 🔭 I’m currently working on **Mocking by Jay**
+- 🔭 I’m currently working on **TheUniqueIQ**
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/TBanks06](https://GitHub.com/TBanks06)
 
